@@ -1,3 +1,3 @@
 function startGit() {
-	console.log('start git');
+	alert('start git');
 }
